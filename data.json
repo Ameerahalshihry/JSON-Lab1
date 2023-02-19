@@ -1,0 +1,50 @@
+[
+    {
+        "name": 
+            {
+                "first":"Ali",
+                "last":"AlAli"
+            },
+        "roomNumber": 100,
+        "bookingDateFrom": "March 1, 2023",
+        "bookingDateTo": "March 22, 2023",
+        "paid": true,
+        "attended": true
+    },
+    {
+        "name": 
+            {
+                "first": "Sami",
+                "last": "ALSami"
+            },
+        "roomNumber": 200,
+        "bookingDateFrom": "June 1, 2023",
+        "bookingDateTo": "June 22, 2023",
+        "paid": false,
+        "attended": false
+    },
+    {
+        "name": 
+            {
+                "first":"Elyas",
+                "last":"Saad"
+            },
+        "roomNumber": 300,
+        "bookingDateFrom": "Dec 1, 2023",
+        "bookingDateTo": "Dec 22, 2023",
+        "paid": true,
+        "attended": false
+    },
+    {
+        "name": 
+            {
+                "first":"Lamia",
+                "last":"ALAhmad"
+            },
+        "roomNumber": 400,
+        "bookingDateFrom": "Oct 1, 2023",
+        "bookingDateTo": "Oct 22, 2023",
+        "paid": true,
+        "attended": false
+    }
+]

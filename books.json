@@ -1,0 +1,50 @@
+[
+    {
+        "title":"The Success",
+        "authors":[
+                    {
+                        "firstName":"Sam",
+                        "lastName":"Mickle"
+                    }
+                ],
+        "price":200,
+        "edition": 1,
+        "isBorrowed": true,
+        "borrowed":[
+                    {
+                        "firstName":"Ali",
+                        "lastName":"AlAli"
+                    }
+                ]
+    },
+    {
+        "title":"The Life",
+        "authors":[
+                    {
+                        "firstName":"Joreg",
+                        "lastName":"Eli"
+                    }
+                ],
+        "price":100,
+        "edition": 2,
+        "isBorrowed": false
+    },
+    {
+        "title":"JS",
+        "authors":[
+                    {
+                        "firstName":"sara",
+                        "lastName":"Eli"
+                    }
+                ],
+        "price":400,
+        "edition": 1,
+        "isBorrowed": true,
+        "borrowed":[
+            {
+                "firstName":"Ali",
+                "lastName":"AlAli"
+            }
+        ]
+    }
+]
