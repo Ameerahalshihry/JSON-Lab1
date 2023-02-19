@@ -12,5 +12,5 @@ books.map((book, index)=>{
 console.log("The borrowed books are: ")
 
 books.map(book=>{
-    book.isBorrowed? console.log(`${book.title}`): null
+    book.isBorrowed? console.log(`${book.title},${book.authors},${book.price}, ${book.edition}  `): null
 })
